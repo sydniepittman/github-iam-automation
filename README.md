@@ -27,3 +27,20 @@ management via the GitHub REST API.
 - Error handling with try/except
 - Audit logging for compliance and accountability
 - Menu-driven CLI tool design
+
+## Screenshots
+
+**Menu Interface**
+![Menu](screenshots/FullAutomation.png)
+
+**Account Summary**
+![Account Summary](screenshots/Option1.png)
+
+**Repository List**
+![Repositories](screenshots/Option2.png)
+
+**2FA Status Check**
+![2FA Check](screenshots/Option5.png)
+
+**Audit Log**
+![Audit Log](screenshots/audit-log.png)
